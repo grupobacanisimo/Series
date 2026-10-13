@@ -5,3 +5,9 @@ https://vod.rtvcplay.co/RTVCPlay-vod/smil:a01875.smil/playlist.m3u8
 https://vod.rtvcplay.co/RTVCPlay-vod/smil:a01876.smil/playlist.m3u8
 #EXTINF:-1 group-title="Serie N. N.",N. N. - Capítulo 3
 https://vod.rtvcplay.co/RTVCPlay-vod/smil:a01877.smil/playlist.m3u8
+#EXTINF:-1 group-title="Series Colombianas",N. N. - Capítulo 4
+https://vod.rtvcplay.co/RTVCPlay-vod/smil:a01878.smil/playlist.m3u8
+#EXTINF:-1 group-title="Series Colombianas",N. N. - Capítulo 5
+https://vod.rtvcplay.co/RTVCPlay-vod/smil:a01879.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Series Colombianas",N. N. - Capítulo 6
+https://vod.rtvcplay.co/RTVCPlay-vod/smil:a02116.smil/playlist.m3u8
