@@ -12,5 +12,6 @@ https://vod.rtvcplay.co/RTVCPlay-vod/smil:a01879.smil/chunklist_b5000000.m3u8
 https://vod.rtvcplay.co/RTVCPlay-vod/smil:a02116.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grupobacanisimo/Series/main/images%20%2822%29.jpeg" group-title="Dejemos de vainas",Dejemos de vainas - Capítulo 1
 https://vod.rtvcplay.co/RTVCPlay-vod/smil:182182.smil/playlist.m3u8
-#EXTINF:-1 group-title="Radios en vivo",Diciembre Stereo
+
+#EXTINF:-1 radio="true" group-title="Radios en vivo" tvg-name="Diciembre Stereo",Diciembre Stereo
 https://encoder.radiux.cloud/radio/victoralfonso.mp3
