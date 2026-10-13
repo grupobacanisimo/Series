@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Serie N. N.",N. N. - Capítulo 1
+https://vod.rtvcplay.co/RTVCPlay-vod/smil:a01875.smil/playlist.m3u8
+#EXTINF:-1 group-title="Serie N. N.",N. N. - Capítulo 2
+https://vod.rtvcplay.co/RTVCPlay-vod/smil:a01876.smil/playlist.m3u8
+#EXTINF:-1 group-title="Serie N. N.",N. N. - Capítulo 3
+https://vod.rtvcplay.co/RTVCPlay-vod/smil:a01877.smil/playlist.m3u8
